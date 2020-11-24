@@ -1,0 +1,1 @@
+document.getElementById('instagram_logo').ondragstart = function() { return false; };
